@@ -1,0 +1,11 @@
+@font-face {
+font-family: Disclaimer;
+src: url('Disclaimer-Classic.ttf') format('truetype');
+src: url('Disclaimer-Classic.otf') format('truetype');
+}
+h1{
+  font-family: 'Disclaimer';
+  display: block;
+    font-weight: normal;
+  font-size: 200px;
+}
