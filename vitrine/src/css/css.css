@@ -15,13 +15,18 @@ src: url('Disclaimer-Classic.otf') format('truetype');
 
 /* Slideshow container */
 .slideshow-container {
-  max-width:100%;
+
+  width:100%;
+  height: 400px;
   position: relative;
+  border: 2px;
+  overflow: hidden;
 }
 
 /* Hide the images by default */
-.HiddenSlides {
+.mySlides {
   display: none;
+
 }
 .Logo{
   display: block;
