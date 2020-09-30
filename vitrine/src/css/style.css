@@ -1,0 +1,36 @@
+@font-face {
+  font-family: Disclaimer;
+  src: url('Disclaimer-Classic.ttf') format('truetype');
+  src: url('Disclaimer-Classic.otf') format('truetype');
+}
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  display: inline;
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  padding: 8px;
+}
+
+li a:hover {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-family: 'Disclaimer';
+  display: block;
+  font-weight: normal;
+  font-size: 200px;
+}
