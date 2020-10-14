@@ -11,4 +11,6 @@ catch(PDOException $e) {
   echo $sql . "<br>" . $e->getMessage();
 }
 $bdd=null;
+header('Location: http://localhost/Monsite/vitrine-bandit/vitrine');
+exit;
 ?>

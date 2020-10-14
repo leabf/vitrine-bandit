@@ -22,17 +22,45 @@ src: url('Disclaimer-Classic.otf') format('truetype');
   border: 2px;
   overflow: hidden;
 }
-
+.newsletter{
+  text-align: center;
+  height: 260px;
+  background-color:#000000;
+  color: #ffffff;
+}
+.contenueNewsletter{
+  padding-top: 100px;
+  height:160px;
+  align-content: center;
+  text-align: center;
+  display: block;
+}
+h2{
+  margin:0 0 20;
+}
 /* Hide the images by default */
 .mySlides {
   display: none;
 
 }
 .Logo{
-  display: block;
-margin-left: auto;
-margin-right: auto }
+  text-align: center;
+  display:block;
+  position:relative;
+  float: left;
+  top:0px;
+  margin-left: 40px;
+  padding-right:28px;
+   }
+
+header{
+  width: 100%;
+  height: 200px;
+
 }
+
+
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
@@ -112,4 +140,62 @@ margin-right: auto }
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
+}
+
+input[type=text], input[type=submit] {
+  padding: 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+input[type=submit] {
+  background-color: #111111;
+  color: white;
+  border: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+}
+
+.link{
+  top:20px;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 20px 19px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #F2E2DE;
+}
+
+.active {
+  background-color: #DB3815;
+}
+
+@media screen and (min-width: 992px){
+  .link{
+    margin-left: 400px;
+  }
+}
+
+@media screen and (max-width: 992px){
+  .link{
+    margin-left: 200px;
+  }
 }

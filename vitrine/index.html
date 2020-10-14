@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
   <head>
@@ -9,26 +8,38 @@
     <title>Bandits</title>
   </head>
   <body onload="showSlides()">
-    <div class="Titre&Logo">
-      <img src="src/photos/Logo.png" class="Logo" style="width:75px">
-      <div class="Titre">Bandits Clothes</div>
 
+    <header>
+    <div class="menu">
+
+      <nav class="barremenu">
+        <ul>
+          <li><img src="src/photos/Logo.png" class="Logo" style="width:75px"></li>
+          <div class="link">
+            <li><a href="#">Accueil</a></li>
+            <li><a href="#">Shop</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">A propos</a></li>
+          </div>
+        </ul>
+      </nav>
     </div>
 
+</header>
     <!-- Slideshow container -->
 <div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <img src="src/photos/instruction.png">
+    <img src="src/photos/avanceebandits.png">
   </div>
 
   <div class="mySlides fade">
-    <img src="src/photos/afficheinstr.png">
+    <img src="src/photos/affiche.png" class="Logo">
   </div>
 
   <div class="mySlides fade">
-    <img src="src/photos/moyenneaffiche.png">
+    <img src="src/photos/histoire3.png">
   </div>
 
   <!-- Next and previous buttons -->
@@ -45,20 +56,16 @@
 </div>
 
 <div class="newsletter">
+    <div class="contenueNewsletter">
   <form class="newsletter" action="../bddco.php" method="post">
-    <div class="container">
     <h2>Rejoignez le mouvement</h2>
     <p>Vous recevrez les instructions pour la révolte ici</p>
-  </div>
-  <div class="container" style="background-color:white">
-    <input type="text" placeholder="Nom" name="name" required>
-    <input type="email" id="email"name="email" size="30">
-</div>
-<div class="container">
-  <input type="submit" value="Subscribe">
+  <div class="container" >
+    <input type="text" placeholder="Adresse e-mail" name="email" required size="30">
+    <input type="submit" class="btn" value="Rejoindre" style="font-weight: bold;">
 </div>
   </form>
-
+</div>
 
 </div>
   </body>
