@@ -3,6 +3,9 @@ font-family: Disclaimer;
 src: url('Disclaimer-Classic.ttf') format('truetype');
 src: url('Disclaimer-Classic.otf') format('truetype');
 }
+body{
+  font-family: "Arial";
+}
 .Titre{
 
   display: block;
@@ -10,8 +13,6 @@ src: url('Disclaimer-Classic.otf') format('truetype');
   font-size: 50px;
   text-align: center;
 }
-
-
 
 /* Slideshow container */
 .slideshow-container {
@@ -51,15 +52,12 @@ h2{
   top:0px;
   margin-left: 40px;
   padding-right:28px;
-   }
+}
 
 header{
   width: 100%;
   height: 200px;
-
 }
-
-
 
 /* Next & previous buttons */
 .prev, .next {
@@ -149,6 +147,7 @@ input[type=text], input[type=submit] {
   border: 1px solid #ccc;
   box-sizing: border-box;
 }
+
 input[type=submit] {
   background-color: #111111;
   color: white;
@@ -165,9 +164,6 @@ ul {
   position: sticky;
 }
 
-.link{
-  top:20px;
-}
 li {
   float: left;
   font-family: 'Disclaimer';
