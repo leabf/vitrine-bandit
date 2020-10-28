@@ -11,15 +11,16 @@
     <style type="text/css">
 			#map{ /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
 				height:400px;
+        width: 600px;
 			}
 		</style>
     <title>Page RFID</title>
   </head>
   <body>
-    <div>
+    <div class="formulaire">
       <form action="envoie_codepostal.php" method="post">
         <div class="container">
-          <h2>Vous voulez voir la carte avec tous les membres du mouvement ?</h2>
+          <h1>Vous voulez voir la carte avec tous les membres du mouvement ?</h1>
         </div>
         <div class="container">
           <input type="text" name="codePostal" placeholder="Entrez votre code postal ici" required>

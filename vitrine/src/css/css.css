@@ -25,16 +25,18 @@ body{
 }
 .newsletter{
   text-align: center;
-  height: 260px;
   background-color:#000000;
   color: #ffffff;
 }
 .contenueNewsletter{
   padding-top: 100px;
-  height:160px;
+  padding-bottom: 100px;
   align-content: center;
   text-align: center;
   display: block;
+}
+.test{
+  background: yellow;
 }
 h2{
   margin:0 0 20;
