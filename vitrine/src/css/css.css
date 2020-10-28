@@ -4,7 +4,7 @@ src: url('Disclaimer-Classic.ttf') format('truetype');
 src: url('Disclaimer-Classic.otf') format('truetype');
 }
 .Titre{
-  font-family: 'Disclaimer';
+
   display: block;
   font-weight: normal;
   font-size: 50px;
@@ -170,6 +170,7 @@ ul {
 }
 li {
   float: left;
+  font-family: 'Disclaimer';
 }
 
 li a {
