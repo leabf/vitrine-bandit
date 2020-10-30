@@ -1,0 +1,11 @@
+.formulaire {
+  align-content: center;
+  text-align: center;
+  display: block;
+  font-family: "Arial";
+}
+
+#envoyer {
+  background-color: white;
+  border-color: #e3e1da;
+}

@@ -196,6 +196,29 @@ li a:hover {
   background-color: #DB3815;
 }
 
+.presentation {
+  padding: 25px;
+  text-align: center;
+  align-content: center;
+}
+
+.h4 {
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.equipe {
+  column-count: 5;
+  padding: 25px;
+  align-items: center;
+  text-align: center;
+}
+
+.gris {
+  background-color: grey;
+}
+
 @media screen and (min-width: 992px){
   .link{
     margin-left: 400px;
