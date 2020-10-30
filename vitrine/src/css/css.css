@@ -27,13 +27,12 @@ body{
 }
 .newsletter{
   text-align: center;
-  height: 260px;
   background-color:#000000;
   color: #ffffff;
 }
 .contenueNewsletter{
+  padding-bottom: 100px;
   padding-top: 100px;
-  height:160px;
   align-content: center;
   text-align: center;
   display: block;
@@ -216,7 +215,7 @@ li a:hover {
 }
 
 .gris {
-  background-color: grey;
+  background-color: #d1d0cd;
 }
 
 @media screen and (min-width: 992px){
