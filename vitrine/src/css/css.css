@@ -211,7 +211,7 @@ li a:hover {
   column-count: 5;
   padding: 25px;
   align-items: center;
-  text-align: center;
+  column-rule-style: solid;
 }
 
 .gris {
