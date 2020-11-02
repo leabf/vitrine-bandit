@@ -39,17 +39,17 @@
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
       <span id="0" class="text"></span>
-    <img src="src/photos/avanceebandits.png">
+    <img src="src/photos/teeshirt.png">
   </div>
 
   <div class="mySlides fade">
       <span id="1" class="text"></span>
-    <img src="src/photos/affiche.png" class="Logo">
+    <img src="src/photos/etiquette.PNG" class="Logo">
   </div>
 
   <div class="mySlides fade" >
     <span id="2" class="text"></span>
-    <img src="src/photos/histoire3.png">
+    <img src="src/photos/tête.PNG">
   </div>
   <script>
   loadXMLDoc('photos.xml');
