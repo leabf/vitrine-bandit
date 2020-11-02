@@ -90,21 +90,36 @@
   <div class="gris">
     <p class="presentation"><strong>Voici notre équipe</strong></p>
     <div class="equipe">
-      <p><strong>Audrey Busca : Cheffe Design.</strong></br> Audrey est actuellement en 3ème année dans l'école d'art ESMA en spécialité Motion Design.</br>
-      Elle a joué un rôle majeur dans la refonte du logo et plus globalement sur les designs de la marque.</br>
-      Ses principales qualitées sont sa créativité, sa compréhension et surtout sa capacité d'adaptation.</p>
-      <p><strong>Axel Prukop : Artiste 3D / Animateur.</strong></br> Axel est actuellement en 3ème année dans l'école d'art ESMA en spécialité 3D.</br>
-      Il a réalisé les représentations des produits en 3D, il a également épaulé la cheffe design pour la refonte du logo.</br>
-      Ses principales qualitées sont sa capacité d'analyse, ses talents en photographie et sa rigueur.</p>
-      <p><strong>Franck Pineda : CEO.</strong></br> Franck est actuellement a temps plein sur la marque après un DUT dans les télécoms.</br>
-      Il est le créateur du logo de base et l'initiateur du projet. Il gère en particulier la création de stickers et la création du shop en ligne</br>
-      Ses principales qualitées sont, sa persévérance, sa créativité et son assiduité.</p>
-      <p><strong>Jordi Pujol : CBO.</strong></br> Jordi est actuellement a temps plein sur la marque après un bachelor dans le commerce.</br>
-      Il est en lien direct avec le fournisseur, il a réalisé le business plan et il gère la publicité</br>
-      Ses principales qualitées sont, sa curiosité, la négociation et son communication.</br></p>
-      <p><strong>Jean Léoutre : CTO.</strong></br> Jean est actuellement en 4ème année d'école d'ingénieur en informatique</br>
-      Il s'occupe de la partie technique de la marque via la technologie RFID, il a réalisé la page vitrine de la marque. Il gère aussi la publicité</br>
-      Ses principales qualitées sont, sa capacité à gérer un projet, son ambition et le travail en équipe.</br></p>
+      <p>
+        <strong>Audrey Busca : Cheffe Design.</strong></br></br>
+        Audrey est actuellement en 3ème année dans l'école d'art ESMA en spécialité Motion Design.</br>
+        Elle a joué un rôle majeur dans la refonte du logo et plus globalement sur les designs de la marque.</br>
+        Ses principales qualitées sont sa créativité, sa compréhension et surtout sa capacité d'adaptation.
+      </p>
+      <p>
+      </br><strong>Axel Prukop : Artiste 3D / Animateur.</strong></br></br>
+        Axel est actuellement en 3ème année dans l'école d'art ESMA en spécialité 3D.</br>
+        Il a réalisé les représentations des produits en 3D, il a également épaulé la cheffe design pour la refonte du logo.</br>
+        Ses principales qualitées sont sa capacité d'analyse, ses talents en photographie et sa rigueur.
+      </p>
+      <p>
+        </br><strong>Franck Pineda : CEO.</strong></br></br>
+        Franck est actuellement à temps plein sur la marque après un DUT dans les télécoms.</br>
+        Il est le créateur du logo de base et l'initiateur du projet. Il gère en particulier la création de stickers et la création du shop en ligne</br>
+        Ses principales qualitées sont sa persévérance, sa créativité et son assiduité.
+      </p>
+      <p>
+        </br><strong>Jordi Pujol : CBO.</strong></br></br>
+        Jordi est actuellement à temps plein sur la marque après un bachelor dans le commerce.</br>
+        Il est en lien direct avec le fournisseur, il a réalisé le business plan et gère la publicité.</br>
+        Ses principales qualitées sont, sa curiosité, la négociation et son communication.</br></br>
+      </p>
+      <p>
+        </br><strong>Jean Léoutre : CTO.</strong></br></br>
+        Jean est actuellement en 4ème année d'école d'ingénieur en informatique.</br>
+        Il s'occupe de la partie technique de la marque via la technologie RFID, il a réalisé la page vitrine de la marque. Il gère aussi la publicité.</br>
+        Ses principales qualitées sont sa capacité à gérer un projet, son ambition et le travail en équipe.</br>
+      </p>
 
     </div>
   </div>
