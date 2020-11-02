@@ -14,7 +14,7 @@
       Votre e-shop arrive très bientôt !
     </h1>
   </body>
-  <footer>
+  <footer class="basDePage">
     <?php include("footer.php"); ?>
   </footer>
 </html>

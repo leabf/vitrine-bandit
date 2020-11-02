@@ -13,7 +13,7 @@
     <h1>Retrouvez ici toutes les informations pour nous contacter !</h1>
   </body>
 
-  <footer>
+  <footer class="basDePage">
     <?php include("footer.php"); ?>
   </footer>
 </html>

@@ -53,7 +53,7 @@ h2{
   top:0px;
   padding-left: 40px;
   padding-right:28px;
-   }
+}
 
 header{
   width: 100%;
@@ -94,13 +94,15 @@ header{
 
 /* Caption text */
 .text {
-  color: black;
-  font-size: 50px;
-  padding: 8px 12px;
-  position: absolute;
+  color: #e03528;
+  font-style: italic;
+  font-size: 15px;
+  position: inherit;
   bottom: 8px;
   width: 100%;
   text-align: center;
+  display: block;
+  padding: 8px 12px;
 }
 /* Number text (1/3 etc) */
 .numbertext {
