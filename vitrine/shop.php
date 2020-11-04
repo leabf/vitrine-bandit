@@ -10,7 +10,7 @@
       <?php include("navbar.php");?>
     </header>
 
-    <h1>
+    <h1 class="conditions">
       Votre e-shop arrive très bientôt !
     </h1>
   </body>

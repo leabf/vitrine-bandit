@@ -57,14 +57,10 @@ h2{
 
 header{
   width: 100%;
-  height: 200px;
+  height: 75px;
 
 }
 
-
-#l{
-  te
-}
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
@@ -103,14 +99,6 @@ header{
   text-align: center;
   display: block;
   padding: 8px 12px;
-}
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
 }
 
 /* The dots/bullets/indicators */
@@ -159,12 +147,7 @@ input[type=submit] {
   color: white;
   border: none;
 }
-.textImage{
-  padding-bottom: 100px;
-  position:relative;
-  text-align: center;
-  color:black;
-}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -192,6 +175,15 @@ li a {
 
 li a:hover {
   background-color: #F2E2DE;
+}
+
+p a {
+  color: white;
+}
+
+p a:hover {
+  text-decoration: none;
+  color: #e03528;
 }
 
 .active {
@@ -223,6 +215,13 @@ li a:hover {
 .basDePage {
   color:white;
   background-color: #000000;
+  padding: 25px;
+  text-align: center;
+}
+
+.conditions {
+  text-align: center;
+  padding: 25px;
 }
 
 @media screen and (min-width: 992px){

@@ -10,7 +10,7 @@
       <?php include("navbar.php");?>
     </header>
 
-    <h1>Retrouvez ici toutes les informations pour nous contacter !</h1>
+    <h1 class="conditions">Retrouvez ici toutes les informations pour nous contacter !</h1>
   </body>
 
   <footer class="basDePage">
